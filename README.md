@@ -22,13 +22,16 @@ Meu objetivo é me tornar uma profissional sólida na área de tecnologia, crian
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo
+## 🛠️ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-333333?style=flat&logo=awslambda)
+![Amazon Athena](https://img.shields.io/badge/-Amazon%20Athena-333333?style=flat&logo=amazonaws)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=googlecolab)
 ---
 
 ## 📌 Projetos em Destaque
