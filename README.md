@@ -37,9 +37,9 @@ Meu objetivo é me tornar uma profissional sólida na área de tecnologia, crian
 
 ## 📊 Estatísticas do GitHub
 
-![Noemi GitHub stats](https://github-readme-stats.vercel.app/api?username=Noemi-Silva&show_icons=true&theme=radical)
+![Noemi GitHub stats](https://github-readme-stats.vercel.app/api?username=Noemi-Silva&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noemi-Silva&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noemi-Silva&layout=compact&theme=tokyonight)
 
 ---
 
