@@ -1,4 +1,6 @@
-# 👋 Olá, eu sou a Noemi Silva
+<h1 align="center">✨ Olá, eu sou a Noemi Silva ✨</h1>
+
+<h3 align="center">Estudante de Tecnologia | Futura Desenvolvedora</h3>
 
 🎓 Estudante de Tecnologia  
 📊 Focada em Dados e Desenvolvimento  
