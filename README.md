@@ -36,21 +36,17 @@ Meu objetivo é me tornar uma profissional sólida na área de tecnologia, crian
 
 ## 📌 Projetos em Destaque
 
-🔹 Em breve adicionarei meus principais projetos aqui com descrição detalhada.
+🔹 (https://github.com/Noemi-Silva/analise-credito-sql-aws-athena)
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Noemi GitHub stats](https://github-readme-stats.vercel.app/api?username=Noemi-Silva&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noemi-Silva&layout=compact&theme=tokyonight)
-
----
 
 ## 🌎 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/noemi-azevedo/)
+
+## 📩 Contato
+- **Telefone/WhatsApp:**  https://wa.me/5581998360798
 
 ---
 
