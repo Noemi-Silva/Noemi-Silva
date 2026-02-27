@@ -42,6 +42,8 @@ Meu objetivo é me tornar uma profissional sólida na área de tecnologia, crian
 📊 Análise Exploratória de Dados - COVID-19 Brasil
 🔹 https://github.com/Noemi-Silva/covid-dashboard-analise-dados
 
+⛽ Análise Exploratória do Preço da Gasolina no Brasil
+🔹https://github.com/Noemi-Silva/preco-gasolina-analise-dados
 ---
 
 
