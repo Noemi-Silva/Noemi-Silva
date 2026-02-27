@@ -51,7 +51,6 @@ Meu objetivo é me tornar uma profissional sólida na área de tecnologia, crian
 
 [![WhatsApp](https://img.shields.io)](https://wa.me/5581998360798)
 
-
 ---
 
 ✨ Sempre aprendendo. Sempre evoluindo.
