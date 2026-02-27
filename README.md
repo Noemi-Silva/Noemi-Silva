@@ -44,6 +44,8 @@ Meu objetivo é me tornar uma profissional sólida na área de tecnologia, crian
 
 ⛽ Análise Exploratória do Preço da Gasolina no Brasil
 🔹https://github.com/Noemi-Silva/preco-gasolina-analise-dados
+
+
 ---
 
 
