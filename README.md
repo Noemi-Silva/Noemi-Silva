@@ -49,8 +49,8 @@ Meu objetivo é me tornar uma profissional sólida na área de tecnologia, crian
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/noemi-azevedo/)
 
-## 📩 Contato
-- **Telefone/WhatsApp:**  https://wa.me/5581998360798
+[![WhatsApp](https://img.shields.io)](https://wa.me/5581998360798)
+
 
 ---
 
