@@ -36,7 +36,11 @@ Meu objetivo é me tornar uma profissional sólida na área de tecnologia, crian
 
 ## 📌 Projetos em Destaque
 
-🔹 (https://github.com/Noemi-Silva/analise-credito-sql-aws-athena)
+📊 Análise de Crédito com SQL no AWS Athena
+🔹 https://github.com/Noemi-Silva/analise-credito-sql-aws-athena
+
+📊 Análise Exploratória de Dados - COVID-19 Brasil
+🔹 https://github.com/Noemi-Silva/covid-dashboard-analise-dados
 
 ---
 
